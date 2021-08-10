@@ -1,0 +1,39 @@
+.button {
+    background-color: #4caf50; /* Green */
+    border: 5px solid rgb(8, 8, 8);
+    color: white;
+    padding: 30px 64px;
+    text-align: center;
+    font-size: 32px;
+    margin: 112px 50px;
+    cursor:progress;
+    border-radius: 25%;
+  }
+
+  .button2 {
+    background-color: #008cba;
+  }
+  .button3 {
+    background-color: #f44336;
+  } 
+  .button4 {
+    background-color: #e7e7e7;
+    color: black;
+  } 
+  .button5 {
+    background-color: rgb(241, 245, 26);
+    color: black;
+  }
+
+  a:after{
+      color:white;
+  }
+  a:active{
+      color: yellow;
+  }
+  a:hover{
+      cursor: grab;
+  }
+  a{
+      text-decoration: none;
+  }
